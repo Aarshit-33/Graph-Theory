@@ -1,0 +1,16 @@
+• Theorem 3-1: There is one and only one path between every pair of
+vertices in a tree, T. (Prove with contradiction)
+• Theorem 3-2: If in a graph G there is one and only one path between
+every pair of vertices, G is a tree.(Prove with direct proof )
+• Theorem 3-3: A tree with n vertices has n-1 edges. (Mathematical
+Induction)
+• Theorem 3-4: Any connected graph with n vertices and n-1 edges is a
+tree.
+• Theorem 3-5: A graph is a tree if and only if it is minimally connected.
+• Theorem 3-6: A graph G with n vertices, n-1 edges, and no circuits is
+connected. (Prove with contradiction)
+• Theorem 3-7: In any tree (with two or more vertices), there are at
+least two pendant vertices.
+• Theorem 3-8: The distance between vertices of a connected graph 
+is a metric.
+• Theorem 3-9: Every tree has one or two centers.
